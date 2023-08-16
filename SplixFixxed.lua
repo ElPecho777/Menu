@@ -1492,7 +1492,7 @@ do
             }, section.visibleContent)
             --
             if transp then
-                utility:LoadImage(colorpicker__transparency, "cptransp", "https://i.imgur.com/IIPee2A.png")
+                utility:LoadImage(colorpicker__transparency, "cptransp", "https://i.imgur.com/Vauscll.png")
             end
             utility:LoadImage(colorpicker__gradient, "gradient", "https://i.imgur.com/Vauscll.png")
             --
